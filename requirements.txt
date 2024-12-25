@@ -6,4 +6,3 @@ ultralytics
 flask-socketio
 python-engineio
 python-socketio 
-streamlit 
