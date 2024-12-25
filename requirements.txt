@@ -5,4 +5,5 @@ numpy
 ultralytics 
 flask-socketio
 python-engineio
-python-socketio 
+python-socketio
+cv2
