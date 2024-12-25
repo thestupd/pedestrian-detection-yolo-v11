@@ -6,4 +6,4 @@ ultralytics
 flask-socketio
 python-engineio
 python-socketio
-cv2
+opencv-python-headless
