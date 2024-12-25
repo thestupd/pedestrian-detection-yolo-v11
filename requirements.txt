@@ -1,0 +1,9 @@
+flask
+torch
+opencv-python
+numpy
+ultralytics 
+flask-socketio
+python-engineio
+python-socketio 
+streamlit 
