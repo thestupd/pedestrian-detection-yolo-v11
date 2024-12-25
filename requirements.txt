@@ -2,7 +2,7 @@ flask
 torch
 opencv-python
 numpy
-ultralytics 
+ultralytics==8.3.54
 flask-socketio
 python-engineio
 python-socketio
